@@ -17,7 +17,6 @@ obs-studio \
 gparted \
 htop \
 cmatrix \
-beep \
 freecad \
 torbrowser-launcher \
 ############## TODO: Add docker steps
