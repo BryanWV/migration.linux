@@ -39,10 +39,13 @@ sudo reboot
 flatpak install --user -y flathub com.bambulab.BambuStudio \
 org.blender.Blender \
 cc.arduino.IDE2 \ ##Latest Arduino version
-### TODO: Add Creality. Manual setup for Flatpak
+# Creality: Download manually .flatpak --user and install it
+# https://github.com/CrealityOfficial/CrealityPrint/releases/tag/v7.1.0
+
 org.DolphinEmu.dolphin-emu \
 org.fedoraproject.MediaWriter 
 ### Other programs need to be installed manually
+
 #QGroundControl: https://docs.qgroundcontrol.com/master/en/qgc-user-guide/getting_started/download_and_install.html
 sudo usermod -aG dialout $USER
 
