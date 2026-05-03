@@ -53,7 +53,7 @@ sudo usermod -aG dialout $USER
 ###
 ## TODO: Add backports
 ###TODO: Install KiCAD
-### TODO: Add Visual Studio Code
+### TODO: Add Visual Studio Code: https://wiki.debian.org/VisualStudioCode
 # Add extensions: material icon theme
 # C/C++
 # Live server
