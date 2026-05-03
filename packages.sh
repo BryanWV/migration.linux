@@ -20,6 +20,7 @@ cmatrix \
 freecad \
 torbrowser-launcher \
 ############## TODO: Add docker steps
+#https://docs.docker.com/engine/install/debian/#prerequisites
 flatpak
 ## plasma-discover-backend-flatpak
 ### I don't usually use GUI for flatpak
